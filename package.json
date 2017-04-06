@@ -1,0 +1,15 @@
+{
+  "name": "propertyprime",
+  "version": "1.0.0",
+  "description": "badass property shit",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Rick, Dennis, Jeff",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.15.0"
+  }
+}
